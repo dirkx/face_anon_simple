@@ -14,10 +14,11 @@ Our face anonymization technique preserves the original facial expressions, head
 git clone https://github.com/hanweikung/face_anon_simple.git
 ```
 
-2. Create a Python environment from the `environment.yml` file.
+2. Create a Python environment from the `environment.yml` file and activate it:
 
 ```bash
 conda env create -f environment.yml
+conda activate face-anon-simple
 ```
 
 ## Usage
